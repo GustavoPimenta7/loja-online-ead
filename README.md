@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # loja online - campanha de natal
+=======
+# loja online - Título para a campanha de frete
+>>>>>>> feature/frete
 
 ## Contato
 Duvidas: Contato@loja.com.br
